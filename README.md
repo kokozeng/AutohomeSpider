@@ -34,7 +34,7 @@ v1和v2主要是因为汽车之家网站有一个div的class的命名不同，�
 
 爬取的效果如下：
 
-car_name | img_url | thumbnail_src
+car_name | img_url | thumbnail_src
 
 ![](https://i.loli.net/2018/11/22/5bf6712c31f7e.png)
 
